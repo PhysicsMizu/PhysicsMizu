@@ -8,12 +8,6 @@
 ## 🔭 About Me
 I am passionate about Quantitative Research, Financial Modeling, Physics, Python Development, Machine Learning. 
 
-My recent projects include:
-
-[- **Project 1:** [Link to Project 1](https://github.com/yourusername/project1)]
-[- **Project 2:** [Link to Project 2](https://github.com/yourusername/project2)]
-[- **Project 3:** [Link to Project 3](https://github.com/yourusername/project3)]
-
 ---
 
 ## 🛠️ Technologies & Tools
@@ -41,4 +35,4 @@ My recent projects include:
 ## 🔗 Connect with Me
 
 - 💬 Let's talk about your ideas in financial modeling and algorithmic trading!
-- 📫 How to reach me: [yourmail@gmail.com](mailto:pablo@sandquist.co)
+- 📫 How to reach me: [pablo@sandquist.co](mailto:pablo@sandquist.co)
